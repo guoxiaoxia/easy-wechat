@@ -1,0 +1,7 @@
+.deployment
+.idea
+.DS_Store
+node_modules
+/logs
+/config
+/test
